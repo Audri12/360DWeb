@@ -1,0 +1,13 @@
+.cyber {
+    background-image: url(../../../assets/sortExpo/bgCyber.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.infrastructure {
+    background-image: url(../../../assets/sortExpo/bgInfast.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
