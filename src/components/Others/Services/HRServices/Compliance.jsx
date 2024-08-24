@@ -3,7 +3,7 @@ import React from 'react'
 const Compliance = () => {
   return (
     <div>
-        <div className="bg-gradient-to-r from-[#082d50] via-[#1f507b] to-[#407ca7] py-14 font-[Inter]">
+        <div className="bg-gradient-to-r from-[#082d50] via-[#1f507b] to-[#407ca7] py-14 ">
       <div className="grid grid-cols-1 lg:grid-cols-2 container mx-auto">
         <div>
         <img
@@ -13,7 +13,7 @@ const Compliance = () => {
             />
         </div>
         <div>
-          <section className="flex items-center h-full font-[Inter]">
+          <section className="flex items-center h-full ">
             <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
               <h1 className="text-white font-bold text-5xl ml-6 ">
               Compliance & Regulatory
