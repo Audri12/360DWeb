@@ -24,7 +24,7 @@ const Benefits = () => {
       <div className='grid gap-8 row-gap-5 mb-8 sm:grid-cols-2 lg:grid-cols-3 sm:mx-auto justify-center drop-shadow-md '>
         {
              cards.map((card)=>(
-                <div className='bg-[#000F1A] rounded-md p-3 h-60'>
+                <div className='bg-[#000F1A] rounded-md p-3 h-64'>
                   <div key={card.id}>
                     <div className='mb-8 h-14'>
                     <h1 className='text-white font-bold text-3xl'>{card.title}</h1>
